@@ -1,0 +1,18 @@
+p {
+  font-size: 30px;
+}
+
+img{
+  max-width: 20%;
+}
+
+#clicks{
+  color: tomato;
+}
+
+.jumbotron {
+  text-align: center;
+  font-family: Helvetica, sans-serif;
+  color: tomato;
+  background-color: black;
+}
